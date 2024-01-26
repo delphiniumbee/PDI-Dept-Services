@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">df7834fd69603110f938aa770e8e9888</canvas>
+        <component display_value="Heading">1f6e0643eca7a637e36bd7833549ec9e</component>
+        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <stored_component/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 19:24:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>5f7834fd5e603110b2ed681699324f87</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Dept Services" source="x_477546_dept_se_0">cf7fe0b12f603110ebeb235df699b656</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Services">cf7fe0b12f603110ebeb235df699b656</sys_scope>
+        <sys_update_name>par_dashboard_widget_5f7834fd5e603110b2ed681699324f87</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-11-08 23:48:22</sys_updated_on>
+        <visualization/>
+        <w>1</w>
+        <widget_props/>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

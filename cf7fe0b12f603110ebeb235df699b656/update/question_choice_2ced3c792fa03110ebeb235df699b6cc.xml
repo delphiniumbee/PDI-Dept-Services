@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>400</order>
+        <published_ref/>
+        <question display_value="Request Type">382d70392fa03110ebeb235df699b6fc</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 19:47:40</sys_created_on>
+        <sys_id>2ced3c792fa03110ebeb235df699b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Type 4</sys_name>
+        <sys_package display_value="Dept Services" source="x_477546_dept_se_0">cf7fe0b12f603110ebeb235df699b656</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Services">cf7fe0b12f603110ebeb235df699b656</sys_scope>
+        <sys_update_name>question_choice_2ced3c792fa03110ebeb235df699b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 19:47:40</sys_updated_on>
+        <text>Request Type 4</text>
+        <value>request_type_4</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=2ced3c792fa03110ebeb235df699b6cc"/>
+</record_update>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5347787d2f603110ebeb235df699b6f1" extends="x_477546_dept_se_0_dept_task" label="DEPT INQUIRY" max_length="40" name="x_477546_dept_se_0_dept_lastone" text_index="true" type="collection"/>
+</database>

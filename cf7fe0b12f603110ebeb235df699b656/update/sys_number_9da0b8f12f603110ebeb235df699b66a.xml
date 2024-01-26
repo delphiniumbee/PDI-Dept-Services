@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_477546_dept_se_0_dept_task">x_477546_dept_se_0_dept_task</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>DEPTTASK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 18:49:49</sys_created_on>
+        <sys_id>9da0b8f12f603110ebeb235df699b66a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DEPTTASK</sys_name>
+        <sys_package display_value="Dept Services" source="x_477546_dept_se_0">cf7fe0b12f603110ebeb235df699b656</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Services">cf7fe0b12f603110ebeb235df699b656</sys_scope>
+        <sys_update_name>sys_number_9da0b8f12f603110ebeb235df699b66a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 18:49:49</sys_updated_on>
+    </sys_number>
+</record_update>

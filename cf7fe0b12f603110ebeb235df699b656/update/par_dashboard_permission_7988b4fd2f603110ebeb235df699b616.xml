@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="par_dashboard_permission">
+    <par_dashboard_permission action="INSERT_OR_UPDATE">
+        <can_read>true</can_read>
+        <can_share>false</can_share>
+        <can_write>false</can_write>
+        <dashboard display_value="Dept Services">977834fd916031105dede8bec7289b88</dashboard>
+        <group/>
+        <role display_value="x_477546_dept_se_0.user" name="x_477546_dept_se_0.user">5f7fe0b12f603110ebeb235df699b694</role>
+        <sys_class_name>par_dashboard_permission</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-08-09 19:24:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>7988b4fd2f603110ebeb235df699b616</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>977834fd916031105dede8bec7289b88</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Services" source="x_477546_dept_se_0">cf7fe0b12f603110ebeb235df699b656</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Services">cf7fe0b12f603110ebeb235df699b656</sys_scope>
+        <sys_update_name>par_dashboard_permission_7988b4fd2f603110ebeb235df699b616</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-08-09 19:24:16</sys_updated_on>
+        <user/>
+    </par_dashboard_permission>
+</record_update>
